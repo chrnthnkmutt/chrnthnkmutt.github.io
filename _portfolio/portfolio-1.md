@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Time Series Prediection from Temperature Anomaly with Jupyter"
+excerpt: "Short description of portfolio item number 1<br/><img src='https://www.climate.gov/sites/default/files/2021-08/DatasetGallery_Global-Temperature-Anomalies-Graphing-Tool_thumb_16x9.jpg'>"
 collection: portfolio
 ---
 
