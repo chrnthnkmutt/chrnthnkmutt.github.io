@@ -21,14 +21,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "https://avatars.githubusercontent.com/u/114327550?v=4"
   name             : "Charunthon Limseelo"
   pronouns         : # example: "she/her"  
   bio              : "Microsoft Learn Student Ambassador"
   location         : "Bangkok, TH"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  employer         : "King Mongkut's University of Technology Thonburi"
+  uri              : "boatchrnthn.vercel.app"
+  email            : "boat.charunthon@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
