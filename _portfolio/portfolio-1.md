@@ -1,7 +1,11 @@
 ---
-title: "Time Series Prediection from Temperature Anomaly with Jupyter"
-excerpt: "Short description of portfolio item number 1<br/><img src='https://www.climate.gov/sites/default/files/2021-08/DatasetGallery_Global-Temperature-Anomalies-Graphing-Tool_thumb_16x9.jpg'>"
+title: "Intelligent Chatbot with Phi-3 SLM and Streamlit Library"
+excerpt: "This repository is used for making demonstration of running Phi-3, Microsoft's Small Language Model, locally with Ollama.<br/><img src='https://github.com/chrnthnkmutt/slm-py-experiment/raw/main/Project_Banner.jpg'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+![](https://github.com/chrnthnkmutt/slm-py-experiment/raw/main/Project_Banner.jpg)
+
+This repository is used for making demonstration of running Phi-3, Microsoft's Small Language Model, locally on the device by using ollama, along with Python library, Streamlit. With the use case of Phi-3 vision.
+
+For more information, please visit at [this link](https://github.com/chrnthnkmutt/slm-py-experiment)
