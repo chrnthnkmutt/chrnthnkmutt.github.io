@@ -11,40 +11,39 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Bachelor of Engineering - BE, Computer Engineering, KMUTT, 2026 (expected)
+* Mathematics-Science Program, Assumption College Samutprakarn, 2022
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* November 2024 - Present: NLP LAB - Research Accelerated Program Researcher
+  * King Mongkut's University of Technology Thonburi
+  * Duties includes: Researching on humor context from small language model.
+  * Supervisor: Asst. Prof. Dr. Natthanart Muansuwan
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* April 2023 - Present: Microsoft Learn Student Ambassador
+  * Microsoft Thailand
+  * Duties included: Tech Contribution, Speaker, and AI Cloud Researcher
+  * Supervisor: Vasupon Thankakan
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* November 2015: Teaching Assistant
+  * King Mongkut's University of Technology Thonburi
+  * Duties included: Guest Lecturer and aid students in the course
+  * Supervisor: Dr. Priyakorn Pusawiro
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Big Data Analytics
+* NLP and Generative AI Development
+  * Prompt Engineering
+  * Fine-tuning and Inferences
+  * Framework Developer for SLMs
+* Front-end web development
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-cv.html %} -->
   {% endfor %}</ul>
   
 Talks
@@ -53,11 +52,11 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Service and leadership
 ======
