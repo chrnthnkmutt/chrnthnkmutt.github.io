@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Charunthon Limseelo"
 title_separator          : "-"
-name                     : &name "Charunthon Limseelo"
+name                     : &name "Charunthon Limseelo (Boat)"
 description              : &description "Personal Portfolio"
 url                      : https://chrnthnkmutt.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
