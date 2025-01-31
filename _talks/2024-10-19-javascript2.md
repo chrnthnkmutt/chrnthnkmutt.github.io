@@ -2,7 +2,7 @@
 title: "Mastering Phi-3 Experiments: Innovative Approaches with JavaScript & Ollama"
 collection: talks
 type: "Keynote"
-permalink: /talks/2024-11-22-talk-1
+permalink: /talks/2024-10-19-javascript2
 venue: "True Digital Park"
 date: 2024-10-19
 location: "Punnawithi, Bangkok, TH"
