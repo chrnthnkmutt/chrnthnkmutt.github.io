@@ -1,6 +1,6 @@
 ---
 title: "Intelligent Chatbot with Phi-3 SLM and Streamlit Library"
-excerpt: "Web Design<br/><img src='https://github.com/chrnthnkmutt/slm-py-experiment/raw/main/Project_Banner.jpg'>"
+excerpt: "Natural Language Processing<br/><img src='https://github.com/chrnthnkmutt/slm-py-experiment/raw/main/Project_Banner.jpg'>"
 collection: portfolio
 ---
 
