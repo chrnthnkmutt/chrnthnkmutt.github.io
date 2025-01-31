@@ -4,8 +4,8 @@ excerpt: "This repository is used for making demonstration of running Phi-3, Mic
 collection: portfolio
 ---
 
-![](https://github.com/chrnthnkmutt/slm-py-experiment/raw/main/Project_Banner.jpg)
-
 This repository is used for making demonstration of running Phi-3, Microsoft's Small Language Model, locally on the device by using ollama, along with Python library, Streamlit. With the use case of Phi-3 vision.
+
+![](https://github.com/chrnthnkmutt/slm-py-experiment/raw/main/Project_Banner.jpg)
 
 For more information, please visit at [this link](https://github.com/chrnthnkmutt/slm-py-experiment)
