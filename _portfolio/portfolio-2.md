@@ -1,7 +1,7 @@
 ---
 title: "LearnEX - Course Learning Platform Design"
 excerpt: "This work is using for making the design of friendly used education portal website, like LEB2 system.<br/><img src='https://boatchrnthn.vercel.app/assets/images/project-1.jpg'>"
-collection: portfolio
+collection: UX_UI_Design
 ---
 
 ![](https://github.com/chrnthnkmutt/slm-py-experiment/raw/main/Project_Banner.jpg)

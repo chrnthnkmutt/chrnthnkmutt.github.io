@@ -1,7 +1,7 @@
 ---
 title: "Intelligent Chatbot with Phi-3 SLM and Streamlit Library"
 excerpt: "This repository is used for making demonstration of running Phi-3, Microsoft's Small Language Model, locally with Ollama.<br/><img src='https://github.com/chrnthnkmutt/slm-py-experiment/raw/main/Project_Banner.jpg'>"
-collection: portfolio
+collection: machine_learning
 ---
 
 ![](https://github.com/chrnthnkmutt/slm-py-experiment/raw/main/Project_Banner.jpg)
