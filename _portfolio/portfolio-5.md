@@ -1,6 +1,6 @@
 ---
 title: "The Jupyter Repository For Linear Transformation Practices From Market Returns"
-excerpt: "Physics<br/><img src='https://github.com/chrnthnkmutt/MTH234_LinearTransformation/raw/main/banner.png'>"
+excerpt: "Mathematics<br/><img src='https://github.com/chrnthnkmutt/MTH234_LinearTransformation/raw/main/banner.png'>"
 collection: portfolio
 ---
 

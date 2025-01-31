@@ -1,11 +1,11 @@
 ---
-title: "Intelligent Chatbot with Phi-3 SLM and Streamlit Library"
-excerpt: "Web Design<br/><img src='https://github.com/chrnthnkmutt/slm-py-experiment/raw/main/Project_Banner.jpg'>"
+title: "LearnEX - Course Learning Platform Design"
+excerpt: "Web Design<br/><img src='https://boatchrnthn.vercel.app/assets/images/project-1.jpg'>"
 collection: portfolio
 ---
 
 ![](https://github.com/chrnthnkmutt/slm-py-experiment/raw/main/Project_Banner.jpg)
 
-This repository is used for making demonstration of running Phi-3, Microsoft's Small Language Model, locally on the device by using ollama, along with Python library, Streamlit. With the use case of Phi-3 vision.
+This work is using for making the design of friendly used education portal website, like LEB2 system, along with using as the assignment for final project for CPE123: UX/UI course.
 
-For more information, please visit at [this link](https://github.com/chrnthnkmutt/slm-py-experiment)
+For looking inside the design, please visit at [this link to Figma](https://www.figma.com/file/LlikKfAL64rbimOkcQySLX/Online-Learning-Platform-(Community)?type=design&node-id=0%3A1&t=En40SYqB2IAFjUno-1)
