@@ -40,6 +40,19 @@ Skills
   * Framework Developer for SLMs
 * Front-end web development
 
+Certifications
+======
+* Google Cloud Computing Foundations: Data, ML, and AI in Google Cloud
+  * Issued By Google Cloud
+* Perform Predictive Data Analysis in BigQuery Skill badge
+  * Issued By Google Cloud
+* Build a natural language processing solution with Azure AI Language
+  * Issued By Microsoft Learn
+* Generative AI Explorer - Vertex AI
+  * Issued By Google Cloud
+* Creative ML Models with BigQuery ML Skill Badge
+  * Issued By Google Cloud
+
 <!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
