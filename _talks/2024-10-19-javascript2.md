@@ -16,4 +16,4 @@ location: "Punnawithi, Bangkok, TH"
 
 It was an incredible journey for me on hosting the in-person session event name Mastering Phi-3 Experiments: Innovative Approaches on Small Language Model with JavaScript & Ollama, as the workshop for over 50 attendees who would like to get insight and learn more on making practical use cases on developing the JavaScript web app with Small Language Model from Ollama platform, which including summarizer within the file and RAG within .csv for data analysis in local device.
 
-For the repository for testing all use cases of implementing small language model with JavaScript and TypeScript, please visit on my GitHub Link on the comment section.
+For the repository for testing all use cases of implementing small language model with JavaScript and TypeScript, please visit on my GitHub Link by [clicking here](https://github.com/chrnthnkmutt/slm-js-experiment).
