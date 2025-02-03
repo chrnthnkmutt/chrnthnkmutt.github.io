@@ -2,7 +2,7 @@
 title: "Developing JS for Data Science tasks"
 collection: talks
 type: "Lightning Talk"
-permalink: /talks/2024-01-27-bkkjs19
+permalink: /talks/bkkjs19
 venue: "Next Stage, SCB Next Tech"
 date: 2024-10-19
 location: "Siam Paragon, Pathum Wan, Bangkok, TH"

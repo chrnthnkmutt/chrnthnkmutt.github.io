@@ -2,7 +2,7 @@
 title: "Developing Local AI Models with Ollama and AutoGen in .NET"
 collection: talks
 type: "Keynote"
-permalink: /talks/2024-11-22-dotnetconf-2024
+permalink: /talks/dotnetconf2024
 venue: "Seven Peaks Software"
 date: 2024-11-22
 location: "Klong Toei, Bangkok, TH"

@@ -2,7 +2,7 @@
 title: "JavaScripts for Open-Source AI Developers in Nowadays"
 collection: talks
 type: "Keynote"
-permalink: /talks/2024-09-14-bkkjs21
+permalink: /talks/bkkjs21
 venue: "Cleverse"
 date: 2024-10-19
 location: "Rama 9, Huai Khwang, Bangkok, TH"

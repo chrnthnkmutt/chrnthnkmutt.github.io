@@ -2,7 +2,7 @@
 title: "Operation on Local AI Agent: Test Drive on Deepseek-R1 Reasoning and AutoGen with .NET and Ollama"
 collection: talks
 type: "Meetup"
-permalink: /talks/2025-01-31-deepseek
+permalink: /talks/deepseekr1
 venue: "Online"
 date: 2025-01-31
 location: "Bangkok, TH"
