@@ -9,3 +9,5 @@ location: "Bangkok, Thailand"
 ---
 
 For this teaching experience, I have been invited to the course as the guest lecturer for teaching core web vitals, the good UX/UI design for web development, which is totally impacted to the developers to have a good responsibility on designing web application. The lecture that I have been discussed was about lazy loading, containers, and divider of the page content, along with some factors in the development and design.
+
+photos will coming soon.
