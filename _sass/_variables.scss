@@ -44,8 +44,8 @@ $type-size-8                : 0.625em;  // ~10px
 
 @font-face {
   font-family: 'LINESeedSansTH';
-  src: url('/webfonts/LINESeedSansTH/WOFF2/LINESeedSansTH_W_Rg.woff2') format('woff2'),
-       url('/webfonts/LINESeedSansTH/WOFF/LINESeedSansTH_W_Rg.woff') format('woff');
+  src: url('./webfonts/LINESeedSansTH/WOFF2/LINESeedSansTH_W_Rg.woff2') format('woff2'),
+       url('./webfonts/LINESeedSansTH/WOFF/LINESeedSansTH_W_Rg.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
