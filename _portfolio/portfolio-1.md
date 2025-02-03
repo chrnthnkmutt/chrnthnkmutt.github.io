@@ -4,7 +4,7 @@ excerpt: "Web Design<br/><img src='https://boatchrnthn.vercel.app/assets/images/
 collection: portfolio
 ---
 
-![](https://github.com/chrnthnkmutt/slm-py-experiment/raw/main/Project_Banner.jpg)
+![](https://github.com/chrnthnkmutt/personal-site/blob/main/assets/images/project-1.jpg?raw=true)
 
 This work is using for making the design of friendly used education portal website, like LEB2 system, along with using as the assignment for final project for CPE123: UX/UI course.
 
