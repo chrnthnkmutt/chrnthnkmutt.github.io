@@ -1,6 +1,6 @@
 ---
 title: "LearnEX - Course Learning Platform Design"
-excerpt: "Web Design<br/><img src='https://boatchrnthn.vercel.app/assets/images/project-1.jpg'>"
+excerpt: "Web Design<br/><img src='https://github.com/chrnthnkmutt/personal-site/blob/main/assets/images/project-1.jpg?raw=true'>"
 collection: portfolio
 ---
 

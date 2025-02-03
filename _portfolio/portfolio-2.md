@@ -1,6 +1,6 @@
 ---
 title: "Charunthon Limseelo - Personal Portfolio"
-excerpt: "Web design<br/><img src='https://boatchrnthn.vercel.app/assets/images/project-2.png'>"
+excerpt: "Web design<br/><img src='https://github.com/chrnthnkmutt/personal-site/blob/main/assets/images/project-2.png?raw=true'>"
 collection: portfolio
 ---
 
