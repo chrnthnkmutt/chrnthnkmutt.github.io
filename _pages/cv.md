@@ -26,7 +26,7 @@ Work experience
   * Duties included: Tech Contribution, Speaker, and AI Cloud Researcher
   * Supervisor: Vasupon Thankakan
 
-* November 2015: Teaching Assistant
+* November 2023: Teaching Assistant
   * King Mongkut's University of Technology Thonburi
   * Duties included: Guest Lecturer and aid students in the course
   * Supervisor: Dr. Priyakorn Pusawiro
