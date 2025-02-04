@@ -21,9 +21,17 @@ List of Collaborator
 -------
 
 <div style="text-align: left; position: relative; min-height: 120px;">
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8u8BZcgcIxcfgSJsas_HDf2pfYTBlmo2q3g&s" alt="Your Image Description" style="float: left; height: 90px; margin-right: 20px;">
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8u8BZcgcIxcfgSJsas_HDf2pfYTBlmo2q3g&s" alt="Your Image Description" style="float: left; height: 90px; margin-right: 50px;">
  <div style="transform: translateY(0%);">
 
-**Microsoft** <br/> Bangkok, Thailand
+Microsoft <br/> Bangkok, Thailand
+
+</div>
+
+<div style="text-align: left; position: relative; min-height: 120px;">
+ <img src="https://scontent.fbkk22-6.fna.fbcdn.net/v/t39.30808-6/291730149_1726751787657720_8906319279669512067_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFgNtC3jYzLueW3X0gaqbGAoipniRaQC32iKmeJFpALfeVbhksJYtdbTLllXu3ATHq6tsqh4KZnMBw5DWzc3P0Z&_nc_ohc=8AI3mCicZ8UQ7kNvgEPnJlb&_nc_zt=23&_nc_ht=scontent.fbkk22-6.fna&_nc_gid=AfvPF256qGWlcW230AJUv0R&oh=00_AYBH5ZO-6FMbZwTJNc64Q_pRT-gbPG_3gJzlL5GOKVkebQ&oe=67A7EA2F" alt="Your Image Description" style="float: left; height: 90px; margin-right: 50px;">
+ <div style="transform: translateY(0%);">
+
+[CreatorsGarten](https://creatorsgarten.org/) <br/> Bangkok, Thailand
 
 </div>
