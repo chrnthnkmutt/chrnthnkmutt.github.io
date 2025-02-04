@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Generating humor that aligns with Thai cultural and linguistic nuances is challenging for generative AI. This paper addresses this by fine-tuning small language models (SLMs) on high-quality, non-synthetic Thai humor datasets. The Llama-3.2-3B model and Low-Rank Adaptation (LoRA) were used for efficient parameter tuning. A comprehensive evaluation with Thai participants ensured the generated humor resonated with cultural expectations.'
 date: 2025-02-01
-venue: 'Journal 1'
+venue: 'ECTI-CON 2025'
 slidesurl: '#'
 paperurl: 'http://chrnthnkmutt.github.io/files/paper1.pdf'
 citation: 'Poobanchean, P., Chaithong, S., Muansuwan, N., Limseelo, C., Sirinaovakul, B., & Suwannahong, K. (2025). Thai Humor Generation by Small Language Models. King Mongkut’s University of Technology Thonburi.'
