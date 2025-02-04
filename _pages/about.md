@@ -21,9 +21,9 @@ List of Collaborator
 -------
 
 <div style="text-align: left; position: relative; min-height: 120px;">
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8u8BZcgcIxcfgSJsas_HDf2pfYTBlmo2q3g&s" alt="Your Image Description" style="float: left; width: 90px; height: 90px; border-radius: 50%; margin-right: 20px;">
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8u8BZcgcIxcfgSJsas_HDf2pfYTBlmo2q3g&s" alt="Your Image Description" style="float: left; height: 90px; margin-right: 20px;">
  <div style="transform: translateY(0%);">
 
-Microsoft <br/> Bangkok, Thailand
+**Microsoft** <br/> Bangkok, Thailand
 
 </div>
