@@ -28,6 +28,8 @@ Microsoft (Spark Tech Thailand) <br/> A community dedicated to sharing knowledge
 </div>
 </div>
 
+<br/>
+
 <div style="text-align: left; position: relative; min-height: 120px;">
  <img src="https://scontent.fbkk22-6.fna.fbcdn.net/v/t39.30808-6/291730149_1726751787657720_8906319279669512067_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFgNtC3jYzLueW3X0gaqbGAoipniRaQC32iKmeJFpALfeVbhksJYtdbTLllXu3ATHq6tsqh4KZnMBw5DWzc3P0Z&_nc_ohc=8AI3mCicZ8UQ7kNvgEPnJlb&_nc_zt=23&_nc_ht=scontent.fbkk22-6.fna&_nc_gid=AfvPF256qGWlcW230AJUv0R&oh=00_AYBH5ZO-6FMbZwTJNc64Q_pRT-gbPG_3gJzlL5GOKVkebQ&oe=67A7EA2F" alt="Your Image Description" style="float: left; height: 90px; margin-right: 50px;">
  <div style="transform: translateY(0%);">
@@ -35,6 +37,8 @@ Microsoft (Spark Tech Thailand) <br/> A community dedicated to sharing knowledge
 CreatorsGarten <br/> Creatorsgarten is a collective of people, both professionals and students, who share a passion for discovering and creating new things including open-source communities, developers, educators, artists, and more.
 </div>
 </div>
+
+<br/>
 
 <div style="text-align: left; position: relative; min-height: 120px;">
  <img src="https://scontent.fbkk29-7.fna.fbcdn.net/v/t39.30808-6/339457321_1301277067125145_7374604210670226972_n.png?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeEmR4WviN1T-nqO5bbOebo2c6koiE5_1m1zqSiITn_WbR5upLXKwvHia7XKQRTPcmU3cLLogrP5yetWxLjwhkQd&_nc_ohc=0EkICPEFgt8Q7kNvgHpXL0_&_nc_zt=23&_nc_ht=scontent.fbkk29-7.fna&_nc_gid=AAI_ymBRaAaIrM0Ghli9s8T&oh=00_AYBYalh1kipRYhvvRuhDUZxRxEOf-UBUmm7RI0UdVtZjYw&oe=67A7FC16" alt="Your Image Description" style="float: left; height: 90px; margin-right: 50px;">
