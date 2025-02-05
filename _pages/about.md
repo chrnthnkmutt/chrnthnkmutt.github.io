@@ -48,6 +48,8 @@ BorntoDev <br/> BorntoDev was born to develop technology concepts and create tec
 </div>
 </div>
 
+<br/>
+
 ![alt text](/_pages/image.png)
 
 Can't wait to have contributions with you guys in many communities.
