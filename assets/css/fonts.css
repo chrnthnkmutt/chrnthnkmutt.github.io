@@ -1,6 +1,10 @@
 @font-face {
     font-family: 'LINESeedSansTH';
-    src: url('/assets/webfonts/LINESeedSansTH_W_Rg.woff') format('woff');
+    src:    url('/assets/webfonts/LINESeedSansTH_W_Rg.woff') format('woff'),
+            url('/assets/webfonts/LINESeedSansTH_W_Bd.woff') format('woff'),
+            url('/assets/webfonts/LINESeedSansTH_W_Th.woff') format('woff'),
+            url('/assets/webfonts/LINESeedSansTH_W_XBd.woff') format('woff'),
+            url('/assets/webfonts/LINESeedSansTH_W_He.woff') format('woff');
     font-weight: 400;
     font-style: normal;
 }
