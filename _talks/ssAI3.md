@@ -4,7 +4,7 @@ collection: talks
 type: "Conference"
 permalink: /talks/ssAI3
 venue: "Microsoft Thailand"
-date: 2024-10-19
+date: 2025-02-28
 location: "Lumpini, Pathum Wan, Bangkok, TH"
 ---
 
