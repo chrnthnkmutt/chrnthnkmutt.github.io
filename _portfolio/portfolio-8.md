@@ -1,6 +1,6 @@
 ---
 title: "Data Analytics for Government Budget in the scope of Ministry of Education 2024"
-excerpt: "Data Analysis<br/><img src='https://media.licdn.com/dms/image/v2/D5622AQEZc-eksD84Kg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1705055903941?e=1741824000&v=beta&t=ZdENGpSY5gZQKtFSHpRNnDpEHnbVuTx1R-R2x6TWCPE'>"
+excerpt: "Data Analysis"
 collection: portfolio
 ---
 
