@@ -10,8 +10,6 @@ location: "Lumpini, Pathum Wan, Bangkok, TH"
 
 [More information here](https://www.linkedin.com/posts/boatchrnthn_as-yesterday-february-28th-i-have-the-activity-7301447495153303554-FjQf?utm_source=share&utm_medium=member_desktop&rcm=ACoAACUNZjMBKgnHgHk2rmwCyvP8LayFC_iDpCI)
 
-![Something](https://scontent-sin6-4.xx.fbcdn.net/v/t39.30808-6/480606680_2723922017808150_8394985164721536211_n.jpg?_nc_cat=101&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGxpUYkCsvgBQkOKKuzFabpBjBkJM8MpW8GMGQkzwylb1f_qr3nkYxB8ntLLX4R6Lo0dQcO00QcvJofrWxMJiiB&_nc_ohc=rnhubPXfeEQQ7kNvgEu0fy_&_nc_zt=23&_nc_ht=scontent-sin6-4.xx&_nc_gid=AGqXlC3SBfUOaAtk3NlFNmc&oh=00_AYCNdQZN_eJ6MF1v3yryJ2mKWff9QqoKsW4wiXWGK8sYZA&oe=67C75781)
-
 In this session, we will delve into the cutting-edge world of O1 models and open models, exploring their transformative impact on complex problem-solving and reasoning. Attendees will gain a deep understanding of how these models operate, their real-world applications, and their collaborative nature.
 
 Key topics include:
