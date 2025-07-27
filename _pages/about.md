@@ -34,7 +34,7 @@ Microsoft (Spark Tech Thailand) <br/> A community dedicated to sharing knowledge
  <img src="/images/creatorsgarten.png" alt="Your Image Description" style="float: left; height: 90px; margin-right: 50px;">
  <div style="transform: translateY(0%);">
 
-CreatorsGarten <br/> Creatorsgarten is a collective of people, both professionals and students, who share a passion for discovering and creating new things including open-source communities, developers, educators, artists, and more.
+Creatorsgarten <br/> Creatorsgarten is a collective of people, both professionals and students, who share a passion for discovering and creating new things including open-source communities, developers, educators, artists, and more.
 </div>
 </div>
 
