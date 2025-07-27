@@ -15,7 +15,7 @@ redirect_from:
 
 🕰️ Previously, I had worked as Google Developer Student in GDSC KMUTT as event speaker for presenting many cases that based on Google Cloud Platform features, and I left the role in 2022 for continuing in MLSA.
 
-📝 In meantime, I work myself as non-org-related tech blog contributor in many organizations like KBTG, Spark Tech Thailand, Azure Community Thailand, CreatorsGarten, Microsoft, and BornTodev. Yet, I have collaborated the contribution with Public Organization like at The Parliament in the first half of 2024.
+📝 In meantime, I work myself as non-org-related tech blog contributor in many organizations like KBTG, Spark Tech Thailand, Azure Community Thailand, Creatorsgarten, Microsoft, and BornTodev. Yet, I have collaborated the contribution with Public Organization like at The Parliament in the first half of 2024.
 
 List of Previous Collaborators
 -------
