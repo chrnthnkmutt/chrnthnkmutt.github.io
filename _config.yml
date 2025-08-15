@@ -12,7 +12,7 @@ title                    : "Charunthon Limseelo"
 title_separator          : "-"
 name                     : &name "Charunthon Limseelo"
 description              : &description "Personal Portfolio"
-url                      : "" # Leave empty to work with multiple domains
+url                      : "https://boatchrnthn.vercel.app" # Set to your Vercel domain
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chrnthnkmutt/chrnthnkmutt.github.io"
 
