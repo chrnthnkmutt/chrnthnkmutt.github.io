@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redirecting to Charunthon Limseelo's Portfolio</title>
+    <meta http-equiv="refresh" content="0; url=https://chrnthnkmutt.github.io">
+    <link rel="canonical" href="https://chrnthnkmutt.github.io">
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            text-align: center;
+        }
+        .container {
+            max-width: 500px;
+            padding: 2rem;
+        }
+        .spinner {
+            border: 3px solid rgba(255,255,255,0.3);
+            border-radius: 50%;
+            border-top: 3px solid white;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 20px auto;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        a {
+            color: #FFD700;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🚀 Redirecting...</h1>
+        <div class="spinner"></div>
+        <p>You're being redirected to <strong>Charunthon Limseelo's</strong> portfolio.</p>
+        <p>If you're not redirected automatically, <a href="https://chrnthnkmutt.github.io">click here</a>.</p>
+    </div>
+    
+    <script>
+        // Fallback redirect in case meta refresh doesn't work
+        setTimeout(() => {
+            window.location.href = 'https://chrnthnkmutt.github.io';
+        }, 1000);
+    </script>
+</body>
+</html>

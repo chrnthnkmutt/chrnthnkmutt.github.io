@@ -12,7 +12,7 @@ title                    : "Charunthon Limseelo"
 title_separator          : "-"
 name                     : &name "Charunthon Limseelo"
 description              : &description "Personal Portfolio"
-url                      : "" # Leave empty for flexible domain usage
+url                      : "https://chrnthnkmutt.github.io" # GitHub Pages as primary domain
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chrnthnkmutt/chrnthnkmutt.github.io"
 
