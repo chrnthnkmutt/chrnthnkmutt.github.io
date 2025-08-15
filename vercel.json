@@ -1,21 +1,5 @@
 {
-  "builds": [
-    {
-      "src": "_config.yml",
-      "use": "@vercel/static-build",
-      "config": {
-        "distDir": "_site"
-      }
-    }
-  ],
-  "buildCommand": "bundle install && bundle exec jekyll build",
-  "outputDirectory": "_site",
-  "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/$1"
-    }
-  ],
-  "cleanUrls": true,
-  "trailingSlash": false
+  "github": {
+    "silent": true
+  }
 }
